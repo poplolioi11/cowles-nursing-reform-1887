@@ -4,7 +4,6 @@ https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=1
 [S; transcribed]
 
 NURSING-REFORM
-
 FOR THE INSANE.
 
 —BY—
@@ -29,6 +28,8 @@ https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=3
 https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=4
 
 [S; transcribed]
+
+[figure] Composite portrait of the 1886 McLean Asylum Training-School class.
 
 [caption] FIFTEEN NURSES.     CLASS OF 1886.
 McLEAN ASYLUM TRAINING-SCHOOL.
@@ -80,7 +81,7 @@ tions that the boon could not be had, and of failures to gain it.
 In the meantime the way was opened for the general hospitals;
 the opportunity came, and with it the woman. She has created
 
-* Read before the Psychological Section of the International Medical
+[footnote] * Read before the Psychological Section of the International Medical
 Congress, Washington, D. C., September 8, 1887.
 
 === Source frame 6 ===
@@ -562,7 +563,7 @@ only of the first class remain; two of these will probably enter
 the hospital, and after graduation there will come back to the
 asylum. Two, as has been said, are already finishing the extra
 year there. Ten have been engaged in private nursing with great
-success and are in active demand,— receiving fifteen dollars per
+success and are in active demand,—receiving fifteen dollars per
 week. None have been found wanting as “bodily” nurses, and
 some of the patients attended required a good knowledge of it.
 The second class of eight still remains with us. Ultimately we
@@ -581,7 +582,7 @@ growing harder,—that the zeal of all concerned is failing, and
 that petty difficulties arise which a woman experienced in a
 hospital school would get on with as a matter of course, without
 
-* A full account of the history of the school, with details of its organiza-
+[footnote] * A full account of the history of the school, with details of its organiza-
 tion, and courses of study, may be found in the Annual Reports of the
 McLean Asylum for the last six years,—particularly in that for 1885.
 
@@ -704,7 +705,7 @@ mittee. The “school” must come in the asylums, for the good is
 so great from the small outlay required. Two thousand to three
 thousand dollars should amply cover all additional cost, not only
 for increased salaries of the teachers, but to pay ten dollars per
-month extra, if necessary, to each of the ten or twelve graduates.
+month extra, if necessary, to each of the ten or twelve graduates
 who will be induced to remain as head nurses. Not every ward
 will need a graduate head nurse; to put advanced pupils in
 charge of some of them will be an advantage. The head of the

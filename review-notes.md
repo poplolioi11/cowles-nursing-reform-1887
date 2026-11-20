@@ -1,5 +1,5 @@
 # Review notes
 
-Version 0.1.0. Source frames 1–22.
+Version 0.2.0. Source frames 1–22.
 
-First image-based reading with NLM/Internet Archive Tesseract OCR support. Covers, portrait caption, all sixteen article pages and two original notes were reperused from the page images. Printing spaces and representational typography have been regularized. Printed tables appear as tab-separated rows in text at their source positions and as rectangular structures in tables metadata. Four unprinted sides and later marks are represented separately from the text. No human full-text collation.
+AI-assisted second image review. First transcription used provider Tesseract as a reading base. The second input is an independently executed Apple Vision pass on the full fixed images, without first-transcript input. Its segmentation and recognition candidates were compared and the images were consulted at differences, printed notes, tables, covers, and unprinted sides. This second input is machine OCR, with manual-in-the-loop AI page review, and no human full-text collation. Whitespace and print emphasis are represented in plain text. The second run does not establish an independent human reading.
