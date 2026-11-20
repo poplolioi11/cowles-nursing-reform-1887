@@ -1,0 +1,820 @@
+{
+  "source_title": "Nursing-Reform for the Insane",
+  "title_zh": "精神病院的護理改革（1887）",
+  "version": "0.1.0",
+  "language": "en",
+  "catalogue": "https://archive.org/details/101650621.nlm.nih.gov",
+  "manifest": "https://archive.org/metadata/101650621.nlm.nih.gov",
+  "source_ocr": "https://archive.org/details/101650621.nlm.nih.gov",
+  "shelfmark": "101650621.nlm.nih.gov",
+  "source_provider": "U.S. National Library of Medicine",
+  "historical_institution": "Edward Cowles",
+  "imprint": "[Utica, N.Y.? : s.n.], 1887. Reprinted from the American Journal of Insanity",
+  "rights": "The original nineteenth-century printed text is in the public domain in the United States. Source scans are linked for verification. CC BY 4.0 applies to new editorial material and encoding wherever copyright applies. Courtesy of the National Library of Medicine.",
+  "coverage_note": "The complete separately printed 1887 pamphlet and its accompanying plate.",
+  "frames": [
+    {
+      "id": "f001",
+      "frame": 1,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n0/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=1",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=1",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "83e4497f16163c00fe04a87dc2bdfafdbb6f812c60448a1d0582d9f0bcfcbd39"
+      },
+      "parts": [
+        {
+          "id": "f001-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "NURSING-REFORM\n\nFOR THE INSANE.\n\n—BY—\n\nEDWARD COWLES, M. D.,\n\nSuperintendent of the McLean Asylum for the Insane, Somerville, Mass.\n\n[From the American Journal of Insanity, for October, 1887.]",
+              "id": "f001-s-u01"
+            }
+          ],
+          "notes": [
+            "Printed title on the front cover. Pencil marks, including a classification inscription, and faint accession stamp are later additions to this copy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f002",
+      "frame": 2,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n1/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=2",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=2",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "16c00cf99eccce94aa1915294b1d1d5be46ff404bc86ff02874ea70a8a8580b0"
+      },
+      "parts": [
+        {
+          "id": "f002-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted verso of front cover."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f003",
+      "frame": 3,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n2/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=3",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=3",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "419732538d11272e7f6d09a959e1a5dd1c2cc1f1cadc7c0b2f189af54d3983d3"
+      },
+      "parts": [
+        {
+          "id": "f003-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted facing side opposite the portrait plate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f004",
+      "frame": 4,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n3/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=4",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=4",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "ada5d332a2bd6ca884d00bf5cd53e74ee62bf9e049a57141e32efc94169d742c"
+      },
+      "parts": [
+        {
+          "id": "f004-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "FIFTEEN NURSES.     CLASS OF 1886.\nMcLEAN ASYLUM TRAINING-SCHOOL.\nCOMPOSITE MADE BY NOTMAN.\n\nFrom THE CENTURY MAGAZINE for November, 1887.",
+              "id": "f004-s-u01"
+            }
+          ],
+          "notes": [
+            "Frontispiece. Composite portrait by Notman, with a printed caption crediting The Century Magazine, November 1887."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f005",
+      "frame": 5,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n4/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=5",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=5",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "f735efb9823e3188e0a4d0c0a101f7995a814b2e069ac388e6e5b9c29ab02cd1"
+      },
+      "parts": [
+        {
+          "id": "f005-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "NURSING-REFORM FOR THE INSANE.*\n\nBY EDWARD COWLES, M. D.,\nSuperintendent of the McLean Asylum for the Insane, Somerville, Mass.\n\nIt is a rare event when, in the cause of humanity, the gratitude\nof a great nation is earned as it was by Florence Nightingale in\nthe noble reform which she began in 1854, in the Crimea; the\nwhole world acknowledges its lasting debt to her. No greater\nwork has ever been done for the amelioration of human suffering\nand the saving of human life than this, which has been accomplished\nin the brief time of one generation. The history of hospital\nreform, and of nursing reform in the general hospitals, is well\nknown. But it seems not to be known so well that when Miss\nNightingale went to Kaiserswerth in 1844, to be trained in the art of\nnursing the sick under the instruction of a Protestant Sisterhood,\nParson Fliedner only represented there the humane spirit which\nhad previously, in Germany, inspired also Dr. Jacobi in his work\non “Hospitals for the Insane.” The world knows what was done in\nFrance, years before that time, by Pinel. Dr. Jacobi despaired of\nhis ideal in the attendance he desired for his patients; and since his\nbook was republished in England in 1841, with Samuel Tuke’s\nintroduction, nothing has been written which sets forth a clearer\nor more humane conception of the needs of the sick, and especially\nof the insane, in intelligent and sympathetic personal attention,\nthan came then from those two men. The leadership in these\nideas of reform then belonged to those who had the care of the\ninsane; and those who have come after them in this work have\nconstantly striven to put these ideas into effect. Dr. Browne,\nat the Crichton Institution, in 1854, the same year that Miss\nNightingale was in the Crimea, had as high a purpose and as\nhumane desires, in giving his thirty lectures to his officers and\nattendants, and striving to get for his insane patients what so\nmany have longed for—the ideal nurse. But the crying need of\nthis has come down to our own times, through a series of lamenta-\ntions that the boon could not be had, and of failures to gain it.\nIn the meantime the way was opened for the general hospitals;\nthe opportunity came, and with it the woman. She has created\n\n* Read before the Psychological Section of the International Medical\nCongress, Washington, D. C., September 8, 1887.",
+              "id": "f005-s-u01"
+            }
+          ],
+          "notes": [
+            "Unnumbered first text page. Original asterisked note below the rule. Later accession stamp and pencil mark separated from the print."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f006",
+      "frame": 6,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n5/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=6",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=6",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "c04a516f31d3aa9090b614157bfe148dde209d3f86feae03b57d5788fcd82960"
+      },
+      "parts": [
+        {
+          "id": "f006-s",
+          "side": "S",
+          "printed_page": "2",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "an epoch for the hospitals, while the asylums were still groping to\nfind the way in which they first felt the need of going.\n\nThere were reasons for this failure of the asylums; and now\nthat, under the stimulus and example of the work in the hospitals,\nthe former have made a beginning in nursing reform for the insane,\nit will be profitable to study those reasons, and to get as clear a view\nas possible of the best way to carry on the reform. The move-\nment has been begun in America with a scope of purpose and an\neffectiveness of early results that furnish something to study, for\nimprovement or approval. At this stage of progress it is import-\nant that good foundations shall be carefully laid, and that the\ncontingencies which endanger the success of the movement shall\nbe guarded against. “Slow and sure” is a good motto in this, as\nin many other things, because failure, or even qualified success,\nmeans at least the misfortune of delay in a great reform that is\ncertain to prevail.\n\nWhile viewing the subject in its larger aspects, it is the present\npurpose to say something of the apparent difficulties in estab-\nlishing systematic methods of training nurses in our asylums,—\ndifficulties that disappear if properly provided against; and\nespecially to point out some of the real difficulties that will arise\nat the beginning and in the course of such a work, and threaten\nits failure. Something of warning and suggestion on my part\nmay be justifiable, from its having happened to me, in the last\nfifteen years, to organize two training schools, one of them in a\ngeneral hospital, and each requiring about five years for the prep-\naration and establishment of the work. This must be the apology\nfor assertions which it might require more extended discussion to\nsustain. Besides the difficulties that may be readily apprehended\nin making innovations in the usually well-ordered systems of\nasylum service, some other apparent ones, that seem to stand in\nthe way of training nurses, may be mentioned as examples. It is\nthought by some that the educating and fitting of women, in the\nasylums, for general nursing will lead the nurses into this branch\nof the work for the public, and lose them to the asylums for whose\nbenefit the labor of training is primarily undertaken; again, if to\navoid this, they are trained simply for the especial nursing of the\ninsane, they will find themselves without an occupation outside of\nthe asylums, because there is so little done in the country in\ngeneral in the private and home care of the insane. This at once\nshows that in addition to the interests of the asylums and their\ninmates, there are, on the one hand, important questions con-",
+              "id": "f006-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f007",
+      "frame": 7,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n6/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=7",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=7",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "13c8f9dc7527c59a7c42ab6a6fbc7c8ce92e7135cb7cbe0759e79fd1f180f425"
+      },
+      "parts": [
+        {
+          "id": "f007-s",
+          "side": "S",
+          "printed_page": "3",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "cerning the interests of the public at large, and on the other, of\nthe nurses themselves.\n\nTo answer these questions and others let us take a large view of\nthe subject, in order to include some of its less obvious bearings,\nand look first at the results of the reform in the general hospitals.\nThose in Boston furnish good examples of these results, both to\nthe hospitals and to the public. Previous to 1873, the old order\nof things existed in all America. In that year in Boston, (and in\nthe same year in New York and New Haven), there were imported\nthe beginnings of that most beneficent work first organized in its\nsecular and effective form, by Florence Nightingale, at the St.\nThomas Hospital thirteen years before. At the Massachusetts\nGeneral Hospital the work began in a few wards in 1873, and at\nthe Boston City Hospital the formal organization of a school was\ncomplete in 1878 for the whole hospital. In 1873 the instructed\nnurse was an experiment, and a cause of apprehension. It was\nsaid she would know too much, or would think she need not obey\nthe physician in all particulars; she would tamper with the\ntreatment; she would want to be a doctor herself, etc. Now\nthere are in this country, few general hospitals of importance, in\nwhich nurses are not carefully trained in their duties, according\nto well-established methods of instruction.\n\nIn the short period of fourteen years, since the introduction of\nthe reform in America, the following are some of the results of\nthe work of the principal Boston schools—the Boston Training\nSchool at the Massachusetts General Hospital, and the Boston\nCity Hospital Training School. The table shows the whole num-\nber of graduates, the average number of graduates that remain\nin the service, and the average number of nurses, trained and\nuntrained, on duty at all times:",
+              "id": "f007-s-u01"
+            },
+            {
+              "kind": "table",
+              "rows": [
+                [
+                  "",
+                  "Whole No. of Graduates.",
+                  "Average No. of Graduates Remaining.",
+                  "Whole No. of Nurses on Duty."
+                ],
+                [
+                  "MASS. GEN. HOSPITAL, IN 14 YEARS,",
+                  "159",
+                  "10",
+                  "60"
+                ],
+                [
+                  "BOSTON CITY HOSPITAL, IN 9 YEARS,",
+                  "141",
+                  "14",
+                  "70"
+                ],
+                [
+                  "TOTALS,",
+                  "300",
+                  "24",
+                  "130"
+                ]
+              ],
+              "header_row": false,
+              "id": "f007-s-u02"
+            },
+            {
+              "kind": "prose",
+              "text": "Only so many graduates are retained each year as will fill the\nfew vacancies that occur in the relatively permanent staff of head\nnurses, of whom there are only a little more than enough to furnish\none for each ward, and to provide for some special service like\nnight duty. At the Massachusetts General Hospital, the first\nclass was graduated in 1875, of only three nurses; the second",
+              "id": "f007-s-u03"
+            }
+          ],
+          "notes": [
+            "The table has four columns. The first column combines two printed lines for each hospital."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f008",
+      "frame": 8,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n7/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=8",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=8",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "8781f014dfbb1c05041e3518726c4ace1bfb8dbd2ffe5598ef37872b4c263330"
+      },
+      "parts": [
+        {
+          "id": "f008-s",
+          "side": "S",
+          "printed_page": "4",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "class numbered eleven; the third, five; the fourth, twenty; the\nfifth, six; and the numbers have since ranged from fourteen to\ntwenty-one graduates annually. The Boston City Hospital School\nhas a similar history, graduating its first class in 1880, and\naveraging eighteen graduates annually for the whole time.\n\nIt is of interest here, to notice what has become of the three\nhundred graduates from these two schools. The figures are ap-\nproximately as follows:",
+              "id": "f008-s-u01"
+            },
+            {
+              "kind": "table",
+              "rows": [
+                [
+                  "Remaining in Parent Hospitals, as stated,",
+                  "24",
+                  ""
+                ],
+                [
+                  "In other institutions,",
+                  "30",
+                  ""
+                ],
+                [
+                  "In District Nursing,",
+                  "8",
+                  ""
+                ],
+                [
+                  "Total in institution and public work,",
+                  "62",
+                  ""
+                ],
+                [
+                  "Engaged in private nursing,",
+                  "170",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "232"
+                ],
+                [
+                  "Total continuing as nurses,",
+                  "232",
+                  ""
+                ],
+                [
+                  "Married,",
+                  "37",
+                  ""
+                ],
+                [
+                  "Died,",
+                  "10",
+                  ""
+                ],
+                [
+                  "Studied medicine.",
+                  "1",
+                  ""
+                ],
+                [
+                  "Unknown as to abode and occupation,",
+                  "20",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "68"
+                ],
+                [
+                  "Total out of service,",
+                  "68",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "300"
+                ]
+              ],
+              "header_row": false,
+              "id": "f008-s-u02"
+            },
+            {
+              "kind": "prose",
+              "text": "Thus it appears that more than three-fourths are continuing the\nwork of their new profession. It is significant that only one has\nstudied medicine; Florence Nightingale said that woman was\nmade to be a nurse and not a physician. The most of those in\nother institutions, and a number of the private nurses, are in\nother States. The City Hospital being the larger has done about\none-half of this work in nine years, against the fourteen years of\nthe Massachusetts General Hospital.\n\nThe Registry for Nurses in Boston, has been in existence nine\nyears; its work is represented in gross as follows:",
+              "id": "f008-s-u03"
+            },
+            {
+              "kind": "table",
+              "rows": [
+                [
+                  "Number of male nurses registered,",
+                  "84"
+                ],
+                [
+                  "Non-graduate female nurses,",
+                  "408"
+                ],
+                [
+                  "Graduate female nurses,",
+                  "245"
+                ],
+                [
+                  "Total number registered,",
+                  "737"
+                ]
+              ],
+              "header_row": false,
+              "id": "f008-s-u04"
+            },
+            {
+              "kind": "prose",
+              "text": "But in the year ending November, 1886, these two hundred\nand forty-five trained nurses were represented in the registry by\nonly one hundred and sixteen of their number who remained con-\nnected with it; and the proportion of trained nurses to the untrained",
+              "id": "f008-s-u05"
+            }
+          ],
+          "notes": [
+            "Two tables. The career table has separate item and subtotal columns, including repeated printed subtotals."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f009",
+      "frame": 9,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n8/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=9",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=9",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "bbe748e008db965ecdafcdabe13732bef1dded16fd2a421a89cb96b5493b1883"
+      },
+      "parts": [
+        {
+          "id": "f009-s",
+          "side": "S",
+          "printed_page": "5",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "is increasing every year. In the training of nurses for more\nspecial work mention should be made of the New England\nHospital for Women, and the Boston Lying-in Hospital.\n\nThe showing here given, from only one centre of this nursing\nreform, indicates how ready and active is the growing demand for\nthe services of this profession; how quickly the product of the\nschools is scattered; what an immense agency for good is being\nevolved by this movement; and what a small proportion of those\ngraduated from the schools is found to be enough to be retained\nin the hospitals, in order to perpetuate the invaluable advantages\nof the new system. It is noteworthy, also, that so large a pro-\nportion as nearly one-fourth has so soon fallen out of the work.\nThe annual product from the two hospitals, here specially\nmentioned, is about thirty-five graduates, and of these only about\nfive to eight are retained, in both together, to fill vacancies made\nby retiring head nurses. It is remarkable that these results have\ncome, in so short a time, from meagre beginnings; for several\nyears it was difficult to find enough women to undertake the work,\nbut now, in contrast, the number of applicants is far in excess of\nthe requirements. All foreknown vacancies occurring from regular\ngraduations, are filled a year in advance at the Massachusetts\nGeneral Hospital, and it often happens, in both hospitals, that\nfifty applications are received in a single month.\n\nThe Boston Registry frequently sends the city-trained nurses to\nplaces in all parts of New England; and applications are con-\nstantly being received, from all parts of the country, for nurses\nto go and settle in the cities where there is no supply. There are\nnow in this country more than thirty such schools, and yet the\nsupply of graduates from well-organized schools falls far short of\nthe demand. At the last annual meeting of the Massachusetts\nMedical Society, a paper was read by Dr. Worcester, of Waltham,\non “Training Nurses,” advocating the importance and feasibility\nof doing this for country practice. His arguments were drawn\nfrom practical experience in a small country hospital. It is the\ntrained nurse that makes practicable the extension of the cottage\nhospital system, in which there is, happily, such a growing interest\nin America, and in which a good proportion of the graduates of\nthe schools is already employed. The demand for this special\nwork must increase, and it is probable that, in time, trained nurses\nwill become as common as physicians, even in country towns;\nthere is evidence now that the physicians of Massachusetts, for\nexample, are generally ready to employ such nurses when they\ncan get them.",
+              "id": "f009-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f010",
+      "frame": 10,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n9/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=10",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=10",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "a5f30a905a30ed404e994187c344e175b98bab810a966873a064b45208b14e4d"
+      },
+      "parts": [
+        {
+          "id": "f010-s",
+          "side": "S",
+          "printed_page": "6",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "It is really no loss to the movement that so many of the nurses fall\nout into other ways of living; the more there are who marry, the\nmore generally will be distributed, in domestic life, an understand-\ning of the use and value of their training. It will take time, of\ncourse, to attain such general results as are here indicated, but it\nmust be, always, a simple question of supply, demand, and\ndiminishing cost to an acceptable aud equitable standard, just as\nit is for medical services. Any present evils, if such there be, of\nover-training or other errors of the system, are sure to be corrected\nin time, by the repressing influences that must always exist.\n\nAny one who has watched the progress of this reform, would\nundoubtedly say that from the beginning the demand for nurses\nhas grown with the supply, and that it will be practically un-.\nlimited. In fact, in the country in general, it will be long before\nthe present stage is passed, in which the supply must precede the\ndemand, for the reason that the value and practicability of the\ncommon employment of such services can not become generally\nknown except by the gradual diffusion of their actual use, which\nmust come by the distribution of persons enough to render them\navailable. The establishment of the Registry for Nurses in\nBoston, in 1879, has had a large and important influence in this\nmatter, by regulating and facilitating the employment of these\nnurses, thus aiding greatly in introducing among the public a\nknowledge of their value, and making a market for the products\nof the schools. Were there no such market the manufactories, so\n\nto speak, would languish.\nThese considerations lead to one of the points already\nmentioned, which needs to be especially emphasized, and it is the\nmain proposition of this paper. One of the most important\nrequirements is, that there shall be an ample and continued\ndemand, outside of the asylums, for the services of such a pro-\nfession, otherwise the new system would have failed long ago.\nIn the old order of things, with only exceptions enough to prove\nthe rule, the attendant has been a make-shift for the asylums; her\nasylum work is a make-shift for herself also, and will always be\nso until such work fits her for, and leads her to, a respectable and\nmore remunerative, or otherwise desirable, life-supporting occupa-\ntion. When this is done, the benefit of the asylums, as now of\nthe hospitals, will lie in this very fact, and secondarily in the fact\nthat not all graduate nurses will be so led away from institution\nwork. Some will remain in it precisely as do medical men;\nindeed, with a difference only in the grade of the work, the",
+              "id": "f010-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f011",
+      "frame": 11,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n10/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=11",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=11",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "76bd07b3dc13a38e7bfe7700cef15e7890a44096113c28de6b439408138ee202"
+      },
+      "parts": [
+        {
+          "id": "f011-s",
+          "side": "S",
+          "printed_page": "7",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "analogy in this regard is very close between the professions of the\nphysician and the nurse.\n\nThere is a direct relation between our need of kind and\nintelligent nurses, and the necessity in their interest for fitting\nthem to engage in a desirable occupation outside of the asylums,\nas an offset to the undesirable character of the service. Samuel\nTuke, in 1841, describing the often repulsive and trying character\nof the work of caring for the insane, says “Can it be surprising\nthen, if it be so difficult to meet with persons to fill properly the\npost of attendant on the insane; that instances of neglect or\nabuse so frequently occur?” He quotes Dr. Jacobi as saying,\n“I believe that this difficulty will never be surmounted till the\nspirit of the age becomes so far changed as to induce persons of\ncultivated minds and benevolent hearts to devote themselves to\nthis employment from religious motives.” But Mr. Tuke’s com-\nment on this is, that “such attendants would indeed be invaluable;\nexperience however, in England as well as in Germany, does\nnot lead us to expect a supply of this class.” And further,\nspeaking of what we primarily want “in those who have charge\nof the insane” as being “a sympathizing unselfish character con-\nnected with firmness and energy of mind,” he says “these traits\nare however, by no means commonly found in attendants.” In\n1876, Dr. Clouston still had to lament the unattainableness of the\nideal asylum and attendants, which he feelingly and graphically\ndescribes; and in his paper before the British Medico-Psychological\nSociety, he puts the practical sense of the situation into these\nwords, “I know of few members of this association who took to\nasylum life from ‘higher motives’ alone, however much these\nmotives may influence the way our work is done. We can not\nexpect from others what did not influence ourselves.” In 1883,\nDr. Clark advocated the education of attendants for a permanent\noccupation for the good of themselves as well as of the asylums.\nBy this way, he said, we may advertise the asylums and attract to\nthem the better raw material; by bringing more elevating\ninfluences to bear upon our attendants—in raising their social\nand industrial status, we shall raise them in the estimation of\nthe public and themselves, and may reasonably expect a more\nmarketable article by and by; their work will become a life-work\nworthy of the name.\n\nIt is curious to notice how slowly these more practical views\nhave been put into effect in the asylums,—even in this country\nwhere the most is being done. But these views were the main-",
+              "id": "f011-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f012",
+      "frame": 12,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n11/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=12",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=12",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "c40c38c82f0343cd106530d49397d7843d2a0863697dbb767bec648a49516e2b"
+      },
+      "parts": [
+        {
+          "id": "f012-s",
+          "side": "S",
+          "printed_page": "8",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "springs of the principles that governed the work of the reform in\nthe general hospitals, from the beginning twenty-seven years ago,\nand made it successful. We can not go against nature; we must\ntake healthy human nature as we find it and make use of the\ncommon principle of wholesome self-interest as an instrument for\nour purpose. With proper regard for this principle we may\nexpect our subjects to be able to afford the philanthropy we seek\nin them. This is not a theoretical matter. The analysis just\ngiven of the work of the Boston Training Schools, and the influ-\nence of the Registry for Nurses, proves every word here said, and\nthat the application of these obvious business principles has\nalready made the business success of this reform, as far as the\ngeneral hospitals are concerned.\n\nNow the application of this to our immediate purpose teaches\nus not only what our first action should be in the premises, but\nalso the reasons to which allusion has been made, for the many\nfailures of the asylums in their gropings for this object in the last\nforty or fifty years. The asylums, all the time, began at the wrong\nend of the problem, ignoring too much the larger view. The\nlimited object of the immediate interests of the service, and of\nthe insane in the asylums, the ease of giving a few lectures which\nmade a quick but deceptive show of “systematic training,” the\nlack of the sustaining moral and business force of the outside\norganizations by which the first training schools were established\nin the hospitals, have led to disappointment and failure. The\nwarning is plain; the lesson is,—lay a good foundation for your\nwork and build upon it safely and surely. In the general hospi-\ntals the order of importance is reversed,—lectures are regarded\nas of minor consequence, and true training as consisting of practical\nwork in the wards and drill by teachers in class-room work in the\ntext-books. Another of the prime causes of the failures was that\nno public demand had been created for asylum-trained nurses;—\nthe superintendents could not,—and later did not when they\ncould,—set before the prospective attendant anything beyond the\nmoderately paid asylum work as an adequate object of a reason-\nable self-interest. The general hospital schools met a more obvi-\nous want, thus having the advantage of the asylums; the hospitals\nhave led the way; the asylums have only to recognize the funda-\nmental principles which sustain the former, and to follow their\nmethods now well-established and approved by experience. There\nis no need of more “attempts” and “experiments.”\n\nLooking at this larger aspect of the movement, and on the basis",
+              "id": "f012-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f013",
+      "frame": 13,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n12/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=13",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=13",
+        "size": [
+          1355,
+          2214
+        ],
+        "sha256": "d36701325dff89c1b81c2d5d4f2688cb11fe7b42927768bc54ed8b6b6b73f8f3"
+      },
+      "parts": [
+        {
+          "id": "f013-s",
+          "side": "S",
+          "printed_page": "9",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "of the proposition to which we now return, that it is essential to\nits success that there shall be a large and continued demand for\nthe product of our schools, certain practical questions arise, and\nthe answers to these furnish the solution of our problem. The\ntruth of the foregoing proposition was made plain in the first six\nyears of the reform in America; and when, in 1879, it was\ndetermined to carry it into the asylum at Somerville, we found\nourselves confronted by the questions just intimated. The use\nhere of our experience may be pardoned, for the sake of clearer\nillustration; a few facts will be of more value than any theory.\nThere was no uncertainty, with us, in regard to what the school\nshould be, as to its methods;—its needs, as to its organization and\nthe provision of a snitable teaching staff, etc.; it was to be no\n“attempt;” all was clear enough on these points. But the first\nquestion was, “How shall we make a nurse that will be useful to\nthe public, and command its patronage; in other words, how shall\nwe best subserve the grand purpose of all our work,—the public\ngood, to which the personal interest of the nurse is incidental and\ncomplemental, and really a means to that greater good?”\n\nThe specialist nurse, we knew, would be a failure; and upon\nthe success of the individual nurse, in the public service, was\nbelieved to depend the ultimate success of asylum training. The\nprecise question was, “Can we teach the asylum attendant to be\na good general nurse, with the limited amount of ‘bodily’ nursing\nthere is among the insane?” (With respect to this, by the way,\nthe large asylums, with their “infirmary wards,” have an advant-\nage over so small a one as the McLean.) A collateral question\nwas, “If we put the work upon the basis of that of a general\nhospital,—adopt hospital methods,—hold the inmates in the atti-\ntude of being sick persons, and as ‘patients,’ will it be consistent\nwith the best interests of the insane as to moral treatment,—pro-\nmoting home-like conditions, etc.?” It was determined, however,\nat the outset, to call the patients “patients,” as if to say, “you\nare sick, and may get well;” to make the attendants “nurses,”\nand the place a “hospital.” All the details of bedside attendance\nupon the sick were amplified as much as possible,—the most was\nmade of all opportunities. For example, nurses practiced in\nkeeping a chart of the temperature, pulse, and respiration, and\ntaking other notes, could thus learn to perform these quite me-\nchanical acts as understandingly as is necessary in any case.\nThey would be relatively on a par with many medical graduates\nwho see little of “cases,” till they come to treat them.",
+              "id": "f013-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f014",
+      "frame": 14,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n13/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=14",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=14",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "9acd1e9a6a701e5e638ea09c5007a0c2b93191f86ebe4a1cfaf4fea1847f2572"
+      },
+      "parts": [
+        {
+          "id": "f014-s",
+          "side": "S",
+          "printed_page": "10",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "The practical questions resolved themselves, therefore, into one\nof getting proper instructors and laying a foundation for thorough\nwork in the training, so that when this formally began there would\nbe no half-way efforts that would invite failure by their inefficiency.\nAt first a number of trained nurses from the general hospitals\nwere invited into the service. Indeed, one employed as early as\n1877, in a common ward for men, remained there five years,\nbut with limited duty; still she and her successors,—the arrange-\nment being extended to include other wards,—demonstrated the\nadmissibility and the great advantages of the daily presence of\nunmarried nurses and ward-maids among male patients. From\n1880 to 1885, nine other such hospital nurses were employed in\nfemale wards, with a view to gaining their aid in the establish-\nment of our school. With one exception the terms of service of\nthese were only between one and six months; they would stay no\nlonger. One other was appointed Superintendent of Nurses, in\n1882, but withdrew after two years; and another, promoted to be\nsupervisor, still remains after three years’ service, doing good\nwork also as a teacher. From experience with these twelve\nnurses, there is ample warrant for saying that their general hospi-\ntal training had, in some respects, actually unfitted them for\n“mental” nursing. They wanted to see some illness or injury,\nand to have something active to do; it was irksome to sit down\nand be companions to patients who did not do as they were told,—as\nthe nurse had been led to expect among those having only\n“bodily” illnesses. Therefore these nurses were slow to acquire\nthe true asylum spirit. The outcome of it was, that our female\nsupervisor, who had been nearly twenty years in the asylum, was\nallowed by the authorities of the Boston City Hospital, to receive\nthere a six months’ special and comprehensive course of training.\nShe was instructed, not only in the points upon which her experi-\nence was lacking, but she learned the technique of school methods.\nThis done, (our whole service having been, by that time, brought\nup to doing the work in hospital ways, and to the expectation and\ndesire for being trained), we were then, at once, able to have a\nschool in full operation. The system of lectures,—the easiest part\nof it all to maintain,—was supplemental; this work, on the part\nof the medical staff, having been once prepared, there is after-\nwards comparatively little trouble in revising and repeating the\nlectures to successive classes.\n\nIn my judgment the important thing is to make large account\nof the general nursing. In the two years of training, the eight",
+              "id": "f014-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f015",
+      "frame": 15,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n14/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=15",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=15",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "779c8987d2a61eebcdab985479d8ae3b531ce762fceb7db399d800d2a5eebfa4"
+      },
+      "parts": [
+        {
+          "id": "f015-s",
+          "side": "S",
+          "printed_page": "11",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "months’ term of the first year are given almost wholly to this in\nabout thirty recitations, one each week, in several text-books; and\nin thirty lectures. Very recently the superintendent of the school\nat the Massachusetts General Hospital said to me (of two of our\ngraduates taking a supplementary course of a year for a second\ngraduation there), “they have been over this ground so thoroughly\nin their class-work and lectures with you, that they do not need\nthat kind of instruction with us.” At the asylum, therefore, they\nare trained as “bodily” nurses the first year and acquire the pro-\nfessional spirit that animates good work in that field, besides\ngaining some satisfactory practical knowledge of this business.\nAt the same time, they have been trained by practical example\nand exercise in “mental” nursing, which is farther developed in\nthe school work of the second year, in another series of as many\nrecitations and lectures as in the first year.\n\nThe results now are that two classes, of sixteen and eight nurses\nrespectively, have been graduated, and there is a senior class of\nfifteen pupils and a junior class of more than that number. Four\nonly of the first class remain; two of these will probably enter\nthe hospital, and after graduation there will come back to the\nasylum. Two, as has been said, are already finishing the extra\nyear there. Ten have been engaged in private nursing with great\nsuccess and are in active demand,— receiving fifteen dollars per\nweek. None have been found wanting as “bodily” nurses, and\nsome of the patients attended required a good knowledge of it.\nThe second class of eight still remains with us. Ultimately we\nshall retain two or three of the first class, and so on of subsequent\nclasses, and be entirely content to do only that.*\n\nOn the basis of this experience, it seems proper even to urge\nthe suggestions here made. The first thing is to make a good\npreparation; there can be no doubt as to results, with a right be-\nginning. Do not try to begin with a simply hospital-trained\nwoman in charge, if better can be done, but regard it as impera-\ntive that, whoever it is, she shall have some general hospital\ntraining. This will avert great trouble and loss of time. About\nthe second or third year, it will be discovered that the work is\ngrowing harder,—that the zeal of all concerned is failing, and\nthat petty difficulties arise which a woman experienced in a\nhospital school would get on with as a matter of course, without\n\n* A full account of the history of the school, with details of its organiza-\ntion, and courses of study, may be found in the Annual Reports of the\nMcLean Asylum for the last six years,—particularly in that for 1885.",
+              "id": "f015-s-u01"
+            }
+          ],
+          "notes": [
+            "Original asterisked note follows body text."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f016",
+      "frame": 16,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n15/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=16",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=16",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "40afa3d310ace2ea04279bc3f32712bab681e1cc1da083d4532c91e132aa61b2"
+      },
+      "parts": [
+        {
+          "id": "f016-s",
+          "side": "S",
+          "printed_page": "12",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "discouragement to the superintendent of the asylum. These\ndrawbacks will be avoided, and the school will be self-perpetuating.\nIn fact, the great point is, to keep clear in mind that the school\nsystem is a new and distinct department of asylum work;—provide\nit then with adequate and special officers, or specially train the\nexisting ones, as teachers, and do not make its perpetuation depend-\nent upon the continuous carrying on of its details and extra work\nby the medical staff, as a material addition to its duties. The best\nway is, to begin with the women alone, and get well organized on\nthat basis; it is easier to get suitable assistance in teaching them.\nThe men can be taken in afterwards with less risk and labor, when\nit is only necessary to extend an established system. As a head\nfor the school, take some suitable woman already in the service,\nused to the ways of that particular asylum and its superintendent,\nand send her to some general hospital, to be fitted for the new\nwork; a year’s training might be enough. The hospitals are\nlikely to be willing to help in this way; such things were done for\nsome of them in the beginning. Do this first, and time will be\nsaved thereby in the long run. While she is away some minor\ndetails of the new system can be introduced. In default of having\nsuch a woman, get one if possible who has already had training in\nboth a hospital and some other asylum. That such a preparation\nwill lead to success has yet to be shown; of course allowance must\nbe made for the personal qualities which training can not change.\nAnother way is possibly practicable. There must be some hospital-\ntrained nurses who will enter upon asylum work with the right\nunderstanding and purpose when it comes to be known that there\nis in it an ample field for humane effort. Let such a woman be\nput into the wards, one after another, quietly keeping her own\ncounsel, until she learns the peculiarities of the work, and gets the\nasylum idea and spirit if she can; then promote her for the pur-\npose in view.\n\nIn regard to the training of men it is only to be said that we\nhave been content to go slowly, and do one thing at a time. They\ndo not lend themselves so pliably as women to the spirit of the\nwork; the inducements can not as yet be made so strong for them.\nLast year we arrived at the point of beginning recitations and\nlectures, with the first class of fifteen men. All new comers now\nreadily obligate themselves to take the full two years’ course.\nThe second assistant physician mainly conducts this class. This\nyear there will be two classes of men in operation, and the male\nsupervisor is expected to become qualified to do a part of the\nclass-room teaching, which eventually, with the assistance of some",
+              "id": "f016-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f017",
+      "frame": 17,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n16/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=17",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=17",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "b45becd58165feed68ab2a43b97e17826b210d7839769006d80d8033d4d12f83"
+      },
+      "parts": [
+        {
+          "id": "f017-s",
+          "side": "S",
+          "printed_page": "13",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "future graduate, he may almost wholly do, relieving the assistant\nphysicians from this part of the work. This is another way of\nproviding teachers,—made necessary because the general hospitals\ndo not yet undertake the special training of men. The indications\nof substantial results are already good among the men.\n\nIt has seemed to me to be fair, to hold out to young men and\nwomen, in our prospectuses and otherwise, the great advantages\nto be gained by them from this training, even if they have no\nidea of following the profession of nursing. The whole matter\nof instructing certain classes of people, as well as the public in\ngeneral, by courses of what are called “emergency lectures” is\nbecoming much in vogue and is precisely to the point in this regard.\nYoung men and women, in an asylum training school, in addition\nto the regular compensation for service, would get this kind of\nvaluable information, useful in any walk in life, and in a way to\namount to something. Again, the primary education of those\nwho can make great success in this calling is defective in many\ncases, and can be improved in most by the educational means\nnecessarily employed in such school exercises as have been\ndescribed. The study of the ordinary school text-books on\n“Physiology and Hygiene,” and other methodical class work;\nthe writing out of notes of lectures with the criticisms thereon—\nthe mental discipline in general, from all such exercises, are of\nthemselves educational in the best sense, in the fundamental\nrequirements of the common schools. There is besides the moral\neducation. One only knows the full force of this who has seen\nthe transformation, under his own eyes, of a company of\nearnest excellent young women; there comes into their faces—\none feels as if he had “talked” it into them—the sure and\npleasing signs of mental growth, as from girls they come to be\nthoughtful women, in so short a time. Some proof of this is\nshown, better than in words, by a composite photograph of the\nnurses of our first class, a copy of which may be found in the\nCentury Magazine for November, in a second article by Pro-\nfessor Stoddard, on Composite Photography.\n\nThese considerations have impressed me with a more general\none as to the interest and duty of the State in this matter. It is,\nto my mind, clearly within its interest to foster in the most\nefficient way, the progress of this reform; the diffusion of a\npractical knowledge of insanity, is, of itself, in the direction of\nprevention, and the wider the distribution of persons well-\ninstructed even in elementary but practical knowledge of the\nsubject, must be of great good. Why then should not asylum",
+              "id": "f017-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f018",
+      "frame": 18,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n17/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=18",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=18",
+        "size": [
+          1355,
+          2214
+        ],
+        "sha256": "8ff4e5f7874e5f947b8ef0124a99eba5387badf454b028f8320f923a0fecfe72"
+      },
+      "parts": [
+        {
+          "id": "f018-s",
+          "side": "S",
+          "printed_page": "14",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "schools be regarded as a part of the public school system, and\nas entitled to the fostering care of the State on this ground?\nAmong the ideas of the duty of the State now gaining recogni-\ntion in regard to industrial education, can not this work have its\nplace, to a very direct end in the benefit of the State? The last\nMassachusetts Legislature was asked to permit the annual use of\na small part of the surplus of one of the State asylums for the\nfoundation and support of a “Training School,” but for want of\nappreciation of the importance of the subject, it was lost in com-\nmittee. The “school” must come in the asylums, for the good is\nso great from the small outlay required. Two thousand to three\nthousand dollars should amply cover all additional cost, not only\nfor increased salaries of the teachers, but to pay ten dollars per\nmonth extra, if necessary, to each of the ten or twelve graduates.\nwho will be induced to remain as head nurses. Not every ward\nwill need a graduate head nurse; to put advanced pupils in\ncharge of some of them will be an advantage. The head of the\nschool and her assistants as supervisors for the day and night, (all\nas teachers), should have liberal compensation, for the work is of\na higher order than it has been accounted, and the results are\nworth more than they will cost. The other expenses, besides\nthese for services will be insignificant.\n\nThe part of the asylums in the general movement begun by\nFlorence Nightingale, may be made a large and proper one. The\ndistribution of hospitals throughout the country is not general\nenough to do what the asylums can in this regard, these are so\nregularly situated as local centres. Thus each in its own locality\nmay find sufficient demand for its products to stimulate their\nmanufacture for the public service, and concurrently to supply its\nown wants. Every city of moderate size should have its registry\nfor nurses, however humble it may begin; it may finally serve\nthe whole country of which it is the centre. In the preparatory\nyears of the school at the McLean Asylum, fifty nurses were sent out\nto private cases, thirty-one women and nineteen men, many of them\nreturning when the special service was ended; the public was dili-\ngently led to understand that nurses would be so supplied; and for\nthe sake of the ultimate greater good, the immediate convenience\nand economy of the asylum was often sacrificed by giving the best\nnurses the chances for the extra compensation. This was a strong\nstimulus for the school. In like manner, let the public expect to\nfind general nurses by applying to all the asylums. Again, under\na similar policy, any one of its departing graduate nurses is given",
+              "id": "f018-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f019",
+      "frame": 19,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n18/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=19",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=19",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "09219fda4bc4b1933c6413a02e9f8bc80525df0e2ad772513efa22ad58514927"
+      },
+      "parts": [
+        {
+          "id": "f019-s",
+          "side": "S",
+          "printed_page": "15",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "employment, at the McLean Asylum, whenever she wishes to\nreturn, upon agreeing to stay at least three months.\n\nA word may be said in regard to the very large hospitals, with\na corps of attendants that would be unwieldly in such school\ntraining. Classes of twelve pupils, each year, are quite large\nenough to be handled to the best advantage. It would seem that\na working standard, suited to the circumstances, might be\nadopted, by which there could be two grades, one of attendants\nand one of nurses, selecting and promoting the most promising of\nthe lower grade. Such a number of pupils would probably in\ntime, supply the needs of any large asylum.\n\nAnother question arises in regard to the promotion of the\nprivate care of the insane; there is much that may be said upon\nthis subject. In this country it is probable that we are to repeat\nthe history of British Lunacy in this respect. This is said with\nno disparagement to the honorable gentlemen doing legitimate\nwork in the private establishments and in the home treatment of\nthe insane. Of course such houses should be under governmental *\ninspection and endorsement, even if for no higher purpose than\nthe protection of their proprietors, while the “home care” of\nthese unfortunates may be carried on in a particularly loose and\nirresponsible way in the present order of things. The deliberate\nsending out of trained asylum nurses is not to be considered as\nliable to foster any evil in this direction—that must be antagonized\nby the usual corrective effect of time and experience. Is not the\ntruest corrective in this matter also, in the seeing to it that all who\nhave to do with the insane shall receive from us all that is in our\npower to give of whatever is right, and true, and honest, in all that\ngoes to promote the intelligent and humane care of these unhappy\npeople? Our views in these matters will the sooner prevail, the\nmore there are of the well-instructed missionaries that go out from us.\n\nQuite enough has probably been said, by way of warning, to\nredeem the promise in the beginning of this paper. Mention\nshould be made, however, of a point of criticism of the new sys-\ntem, in New England, which may be instructive. There are\nconservative and intelligent physicians and surgeons who depre-\ncate what they regard as the injudicious ideas of certain promoters\nof these schools, which beget too much of the masquerading of\n“higher motives,” and the “woman’s mission.” It is not likely\nthat this will amount to a serious evil;—in fact the tendency has\nbeen to resolve the sensational elements, at first not uncommon,\ninto the plain common sense of simple good motives, and good\nconduct, and good work, in the seeking for an honest and respecta-",
+              "id": "f019-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f020",
+      "frame": 20,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n19/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=20",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=20",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "68280fdbd3f99aef240ab76ea6ff0d9fc3824f05e4bfc03f5ae057d4bb2f1646"
+      },
+      "parts": [
+        {
+          "id": "f020-s",
+          "side": "S",
+          "printed_page": "16",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "ble livelihood. It was a timely caution, however, recently given\nby an eminent surgeon, against training the woman so that she\nbecomes a sort of hybrid, which is neither nurse nor doctor. In\nthe beginning of a school, a few nurses, who know how to do\nacceptable work, with no parade nor nonsense, will do more to\nhelp on the cause, outside and inside of the asylums, than anything\nelse. Of our graduates, we should be able to feel content in\nsaying, “By their works ye shall know them and us.” At the\nMcLean Asylum the nurses are not taught to write theses and the\nlike; they are quietly handed their diplomas when they are due,\nand there is rigid avoidance of promoting any other spirit than\nthat of aiming at modest, quiet, unobtrusive devotion to honest\nwork. In this we but imitate what is really the aim of the general\nhospital schools which have been established long enough to have\nsettled down to the plain methods of solid business.\n\nThe feeling is strong upon me that the importance of this\nnursing reform for the insane is not yet half realized. The keen\npsychological interest an intelligent nurse will take (when taught\nto do it), in the mental operations of an insane patient, is some-\nthing beyond even my very sanguine expectations. This puts a\npower into our hands for the moral treatment of our patients that\nopens wide possibilities in promoting their comfort and cure. One\nmust believe this when he finds his nurses methodically and intel-\nligently fitting their manner and speech to different patients, and\nwith womanly gentleness, as well as with an effectiveness that\ncomes from an almost unconscious knowledge (so to speak) of\npower to manage the varying mental states of the insane. The\nacute intuition of women, when trained to this work, becomes a\nmost valuable instrument in our hands.\n\nIt is not the least of the advantages of this system, that it\ndevelops the personal relation between officers and the nurses.\nOne can not meet his people, even somewhat formally in the lec-\nture-room, every week for a series of months, without being more\nkeenly moved by a sympathetic interest in each of them,—in their\ntroubles, their good efforts, and their attainments. They discover\nthis feeling, of course, and there is soon a community of interest,\na unity of purpose, and a mutual confidence that brings good to\nthe common cause. Were no “graduates” to remain in the\nasylums, the value and comfort of this system would be so great,\nin the current benefit of carrying it on, that once appreciated, no\nasylum superintendent would be deprived of it.\n\nFinally: get ready before beginning; begin rightly; goslowly;\ndo the work thoroughly; and there will surely be good results.",
+              "id": "f020-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f021",
+      "frame": 21,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n20/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=21",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=21",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "920b00372542353e83031c975fb7f71477a9977c93e1be371d4dc07f384313f0"
+      },
+      "parts": [
+        {
+          "id": "f021-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted end side."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f022",
+      "frame": 22,
+      "source": {
+        "canvas": "https://archive.org/details/101650621.nlm.nih.gov/page/n21/mode/1up",
+        "url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=22",
+        "original_url": "https://archive.org/download/101650621.nlm.nih.gov/101650621.pdf#page=22",
+        "size": [
+          1356,
+          2214
+        ],
+        "sha256": "b5ac8cdff13219abb1174ff31a86e167639aac05a2cea1bfe44c746dfccfe55e"
+      },
+      "parts": [
+        {
+          "id": "f022-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": [
+            "Unprinted back cover."
+          ]
+        }
+      ]
+    }
+  ],
+  "source_rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
